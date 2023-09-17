@@ -16,11 +16,11 @@ This software is available in a directly installable or executable production ve
 
 You can download and redistribute it free of charge, provided you do not modify its content (installer, program, additional files, etc.).
 
-[Download program or installer](https://olfsoftware.lemonsqueezy.com/checkout?cart=3884eb31-7111-4169-b289-a3a71c822df5)
+[Download program or installer](https://olfsoftware.lemonsqueezy.com/checkout/buy/b6820fc9-3978-43bd-8247-881ec9c75653)
 
 If you use this software regularly and are satisfied with it, you are invited to purchase an end-user license. Purchasing a license will give you access to software updates, as well as enabling optional features.
 
-[Buy a license](https://olfsoftware.lemonsqueezy.com/checkout?cart=5e902536-149f-4f56-9a72-c57dce15da5a)
+[Buy a license](https://olfsoftware.lemonsqueezy.com/checkout/buy/9eeb5370-6641-406b-a111-463bc0bdadfa)
 
 You can also [visit the software website](https://sutomhelper.olfsoftware.fr) to find out more about how it works, access videos and articles, find out about the different versions available and their features, contact user support...
 
