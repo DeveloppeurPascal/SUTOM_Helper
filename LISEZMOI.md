@@ -16,11 +16,11 @@ Ce logiciel est disponible dans une version de production directement installabl
 
 Vous pouvez le télécharger et le rediffuser gratuitement à condition de ne pas en modifier le contenu (installeur, programme, fichiers annexes, ...).
 
-[Télécharger le programme ou son installeur](DDD)
+[Télécharger le programme ou son installeur](https://olfsoftware.lemonsqueezy.com/checkout?cart=3884eb31-7111-4169-b289-a3a71c822df5)
 
 Si vous utilisez régulièrement ce logiciel et en êtes satisfait vous êtes invité à en acheter une licence d'utilisateur final. L'achat d'une licence vous donnera accès aux mises à jour du logiciel en plus d'activer d'évenuelles fonctionnalités optionnelles.
 
-[Acheter une licence](FFF)
+[Acheter une licence](https://olfsoftware.lemonsqueezy.com/checkout?cart=5e902536-149f-4f56-9a72-c57dce15da5a)
 
 Vous pouvez aussi [consulter le site du logiciel](https://sutomhelper.olfsoftware.fr) pour en savoir plus sur son fonctionnement, accéder à des vidéos et articles, connaître les différentes versions disponibles et leurs fonctionnalités, contacter le support utilisateurs...
 
