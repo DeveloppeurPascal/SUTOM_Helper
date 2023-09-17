@@ -1,0 +1,6 @@
+[submodule "src-Delphi/lib-externes/librairies"]
+	path = src-Delphi/lib-externes/librairies
+	url = https://github.com/DeveloppeurPascal/librairies.git
+[submodule "src-Delphi/lib-externes/AboutDialog-Delphi-Component"]
+	path = src-Delphi/lib-externes/AboutDialog-Delphi-Component
+	url = https://github.com/DeveloppeurPascal/AboutDialog-Delphi-Component.git
