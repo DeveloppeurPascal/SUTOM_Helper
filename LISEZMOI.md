@@ -24,6 +24,8 @@ Si vous utilisez régulièrement ce logiciel et en êtes satisfait vous êtes in
 
 Vous pouvez aussi [consulter le site du logiciel](https://sutomhelper.olfsoftware.fr) pour en savoir plus sur son fonctionnement, accéder à des vidéos et articles, connaître les différentes versions disponibles et leurs fonctionnalités, contacter le support utilisateurs...
 
+Une démonstration du programme est disponible sur [YouTube](https://youtu.be/uqHkS3Y1cX0). Elle a été enregistrée le 18 septembre 2023 pour résoudre SUTOM. Le programme fonctionne de la même façon pour tous types de jeux de lettres.
+
 ## Installation des codes sources
 
 Pour télécharger ce dépôt de code il est recommandé de passer par "git" mais vous pouvez aussi télécharger un ZIP directement depuis [son dépôt GitHub](https://github.com/DeveloppeurPascal/SUTOM_Helper).

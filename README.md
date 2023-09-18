@@ -24,6 +24,8 @@ If you use this software regularly and are satisfied with it, you are invited to
 
 You can also [visit the software website](https://sutomhelper.olfsoftware.fr) to find out more about how it works, access videos and articles, find out about the different versions available and their features, contact user support...
 
+A demonstration of the programme is available on [YouTube](https://youtu.be/uqHkS3Y1cX0). It was recorded on 18 September 2023 to solve SUTOM. The programme works in the same way for all types of word game.
+
 ## Source code installation
 
 To download this code repository, we recommend using "git", but you can also download a ZIP file directly from [its GitHub repository](https://github.com/DeveloppeurPascal/SUTOM_Helper).
