@@ -119,6 +119,13 @@ end;
 
 procedure TfrmMain.FormCreate(Sender: TObject);
 begin
+{$IFDEF DEBUG}
+  caption := '[DEBUG] ' + OlfAboutDialog1.Titre + ' v' +
+    OlfAboutDialog1.VersionNumero;
+{$ELSE}
+  caption := OlfAboutDialog1.Titre + ' v' + OlfAboutDialog1.VersionNumero;
+{$ENDIF}
+
   Letters := TDictionary<byte, char>.Create;
   GeneratedWordsCount := 0;
   RestartGame;
@@ -314,5 +321,6 @@ initialization
 {$IFDEF DEBUG}
   ReportMemoryLeaksOnShutdown := true;
 {$ENDIF}
+globalusemetal := true;
 
 end.

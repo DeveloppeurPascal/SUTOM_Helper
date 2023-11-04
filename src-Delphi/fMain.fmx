@@ -71,8 +71,8 @@ object frmMain: TfrmMain
   end
   object OlfAboutDialog1: TOlfAboutDialog
     Titre = 'SUTOM Helper'
-    VersionNumero = '1.0'
-    VersionDate = '20230917'
+    VersionNumero = '1.1'
+    VersionDate = '20231104'
     MultiResBitmap = <
       item
       end>
@@ -108,6 +108,8 @@ object frmMain: TfrmMain
       StyleLookup = ''
       TabOrder = 0
       Text = 'tiLettersNumber'
+      ExplicitSize.cx = 8.000000000000000000
+      ExplicitSize.cy = 8.000000000000000000
       object Layout1: TLayout
         Align = Center
         Size.Width = 202.000000000000000000
@@ -173,6 +175,8 @@ object frmMain: TfrmMain
       StyleLookup = ''
       TabOrder = 0
       Text = 'tiWord'
+      ExplicitSize.cx = 8.000000000000000000
+      ExplicitSize.cy = 8.000000000000000000
       object mmoWordsList: TMemo
         Touch.InteractiveGestures = [Pan, LongTap, DoubleTap]
         DataDetectorTypes = []
