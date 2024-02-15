@@ -2,7 +2,7 @@
 
 [Cette page en français.](LISEZMOI.md)
 
-A simple program to help you solve word-finding challenges such as [SUTOM](https://sutom.nocle.fr), [WORDLE](https://wordle.louan.me), crosswords or arrow puzzles and others in any language.
+A simple program to help you solve word-finding challenges such as [SUTOM](https://sutom.nocle.fr), [WORDLE](https://wordle.louan.me), [TUSMO](https://www.tusmo.xyz/), crosswords or arrow puzzles and others in any language.
 
 Choose the number of letters, indicate for each position the letter to be used and then the list of possible letters to obtain the list of possible combinations. It's up to you to choose from among them as you build up your vocabulary.
 

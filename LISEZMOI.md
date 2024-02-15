@@ -2,7 +2,7 @@
 
 [This page in english.](README.md)
 
-Un programme très simple pour vous aider à résoudre les challenges de mots à trouver comme [SUTOM](https://sutom.nocle.fr), [WORDLE](https://wordle.louan.me), des mots croisés ou fléchés et les autres quelle que soit la langue utilisée.
+Un programme très simple pour vous aider à résoudre les challenges de mots à trouver comme [SUTOM](https://sutom.nocle.fr), [WORDLE](https://wordle.louan.me), [TUSMO](https://www.tusmo.xyz/), des mots croisés ou fléchés et les autres quelle que soit la langue utilisée.
 
 Choisissez le nombre de lettres, indiquez pour chaque position la lettre à utiliser puis la liste des lettres possibles afin d'obtenir la liste des combinaisons possibles. A vous de faire le choix parmi elles en cultivant votre vocabulaire.
 
