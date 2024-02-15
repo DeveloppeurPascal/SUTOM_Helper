@@ -198,4 +198,52 @@ object frmMain: TfrmMain
       end
     end
   end
+  object MainMenu1: TMainMenu
+    Left = 64
+    Top = 40
+    object mnuMacOS: TMenuItem
+      Text = 'mnuMacOS'
+    end
+    object mnuFichier: TMenuItem
+      Text = 'mnuFichier'
+      object mnuQuitter: TMenuItem
+        Locked = True
+        Text = 'mnuQuitter'
+        OnClick = btnCloseClick
+      end
+    end
+    object mnuMot: TMenuItem
+      Text = 'mnuMot'
+      object mnuRestart: TMenuItem
+        Locked = True
+        Text = 'mnuRestart'
+        OnClick = btnRestartClick
+      end
+    end
+    object mnuOutils: TMenuItem
+      Text = 'mnuOutils'
+      object mnuLangues: TMenuItem
+        Locked = True
+        Text = 'mnuLangues'
+        object mnuLangueFrancais: TMenuItem
+          Locked = True
+          Text = 'mnuLangueFrancais'
+          OnClick = mnuLangueFrancaisClick
+        end
+        object mnuLangueAnglais: TMenuItem
+          Locked = True
+          Text = 'mnuLangueAnglais'
+          OnClick = mnuLangueAnglaisClick
+        end
+      end
+    end
+    object mnuAide: TMenuItem
+      Text = 'mnuAide'
+      object mnuAPropos: TMenuItem
+        Locked = True
+        Text = 'mnuAPropos'
+        OnClick = btnAboutClick
+      end
+    end
+  end
 end
