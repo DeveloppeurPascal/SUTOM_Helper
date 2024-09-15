@@ -1,6 +1,6 @@
 # SUTOM Helper
 
-[This page in english.](README.md)
+[This page in English.](README.md)
 
 Un programme très simple pour vous aider à résoudre les challenges de mots à trouver comme [SUTOM](https://sutom.nocle.fr), [WORDLE](https://wordle.louan.me), [TUSMO](https://www.tusmo.xyz/), des mots croisés ou fléchés et les autres quelle que soit la langue utilisée.
 
@@ -9,6 +9,12 @@ Choisissez le nombre de lettres, indiquez pour chaque position la lettre à util
 Et profitez en pour ouvrir un dictionnaire et apprendre les mots que vous ne connaissiez pas.
 
 Ce dépôt de code contient un projet développé en langage Pascal Objet sous Delphi. Vous ne savez pas ce qu'est Dephi ni où le télécharger ? Vous en saurez plus [sur ce site web](https://delphi-resources.developpeur-pascal.fr/).
+
+## Présentations et conférences
+
+### Twitch
+
+Suivez mes streams de développement de logiciels, jeux vidéo, applications mobiles et sites web sur [ma chaîne Twitch](https://www.twitch.tv/patrickpremartin) ou en rediffusion sur [Serial Streameur](https://serialstreameur.fr) la plupart du temps en français.
 
 ## Utiliser ce logiciel
 
@@ -37,7 +43,7 @@ Ce projet utilise des dépendances sous forme de sous modules. Ils seront absent
 
 ## Licence d'utilisation de ce dépôt de code et de son contenu
 
-Ces codes sources sont distribués sous licence [AGPL 3.0 ou ultérieure] (https://choosealicense.com/licenses/agpl-3.0/).
+Ces codes sources sont distribués sous licence [AGPL 3.0 ou ultérieure](https://choosealicense.com/licenses/agpl-3.0/).
 
 Vous êtes globalement libre d'utiliser le contenu de ce dépôt de code n'importe où à condition :
 * d'en faire mention dans vos projets
