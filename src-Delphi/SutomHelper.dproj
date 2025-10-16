@@ -224,8 +224,8 @@
         <BT_BuildType>Debug</BT_BuildType>
         <VerInfo_IncludeVerInfo>true</VerInfo_IncludeVerInfo>
         <Debugger_Launcher>/usr/X11/bin/xterm -e &quot;%debuggee%&quot;</Debugger_Launcher>
-        <Icon_MainIcon>..\icons\SutomHelper.ico</Icon_MainIcon>
-        <Icns_MainIcns>..\icons\SutomHelper.icns</Icns_MainIcns>
+        <Icon_MainIcon>..\assets\icons\SutomHelper.ico</Icon_MainIcon>
+        <Icns_MainIcns>..\assets\icons\SutomHelper.icns</Icns_MainIcns>
         <Manifest_File>(vide)</Manifest_File>
         <AppDPIAwarenessMode>none</AppDPIAwarenessMode>
         <VerInfo_AutoIncVersion>true</VerInfo_AutoIncVersion>
@@ -236,8 +236,8 @@
         <BT_BuildType>Debug</BT_BuildType>
         <VerInfo_IncludeVerInfo>true</VerInfo_IncludeVerInfo>
         <Debugger_Launcher>/usr/X11/bin/xterm -e &quot;%debuggee%&quot;</Debugger_Launcher>
-        <Icon_MainIcon>..\icons\SutomHelper.ico</Icon_MainIcon>
-        <Icns_MainIcns>..\icons\SutomHelper.icns</Icns_MainIcns>
+        <Icon_MainIcon>..\assets\icons\SutomHelper.ico</Icon_MainIcon>
+        <Icns_MainIcns>..\assets\icons\SutomHelper.icns</Icns_MainIcns>
         <Manifest_File>(vide)</Manifest_File>
         <AppDPIAwarenessMode>none</AppDPIAwarenessMode>
         <VerInfo_AutoIncVersion>true</VerInfo_AutoIncVersion>
@@ -251,10 +251,10 @@
         <VerInfo_Keys>CompanyName=;FileDescription=$(MSBuildProjectName);FileVersion=1.0.0.0;InternalName=;LegalCopyright=2023 Patrick Prémartin;LegalTrademarks=;OriginalFilename=;ProgramID=fr.olfsoftware.sutomhelper;ProductName=$(MSBuildProjectName);ProductVersion=1.0;Comments=</VerInfo_Keys>
         <VerInfo_Locale>1033</VerInfo_Locale>
         <Manifest_File>$(BDS)\bin\default_app.manifest</Manifest_File>
-        <UWP_DelphiLogo44>..\icons\SutomHelper-44x44.png</UWP_DelphiLogo44>
-        <UWP_DelphiLogo150>..\icons\SutomHelper-150x150.png</UWP_DelphiLogo150>
-        <Icon_MainIcon>..\icons\SutomHelper.ico</Icon_MainIcon>
-        <Icns_MainIcns>..\icons\SutomHelper.icns</Icns_MainIcns>
+        <UWP_DelphiLogo44>..\assets\icons\SutomHelper-44x44.png</UWP_DelphiLogo44>
+        <UWP_DelphiLogo150>..\assets\icons\SutomHelper-150x150.png</UWP_DelphiLogo150>
+        <Icon_MainIcon>..\assets\icons\SutomHelper.ico</Icon_MainIcon>
+        <Icns_MainIcns>..\assets\icons\SutomHelper.icns</Icns_MainIcns>
         <AppDPIAwarenessMode>none</AppDPIAwarenessMode>
         <VerInfo_AutoIncVersion>true</VerInfo_AutoIncVersion>
     </PropertyGroup>
@@ -266,10 +266,10 @@
         <VerInfo_Keys>CompanyName=;FileDescription=$(MSBuildProjectName);FileVersion=1.0.0.0;InternalName=;LegalCopyright=2023 Patrick Prémartin;LegalTrademarks=;OriginalFilename=;ProgramID=fr.olfsoftware.sutomhelper;ProductName=$(MSBuildProjectName);ProductVersion=1.0;Comments=</VerInfo_Keys>
         <VerInfo_Locale>1033</VerInfo_Locale>
         <Manifest_File>$(BDS)\bin\default_app.manifest</Manifest_File>
-        <UWP_DelphiLogo44>..\icons\SutomHelper-44x44.png</UWP_DelphiLogo44>
-        <UWP_DelphiLogo150>..\icons\SutomHelper-150x150.png</UWP_DelphiLogo150>
-        <Icon_MainIcon>..\icons\SutomHelper.ico</Icon_MainIcon>
-        <Icns_MainIcns>..\icons\SutomHelper.icns</Icns_MainIcns>
+        <UWP_DelphiLogo44>..\assets\icons\SutomHelper-44x44.png</UWP_DelphiLogo44>
+        <UWP_DelphiLogo150>..\assets\icons\SutomHelper-150x150.png</UWP_DelphiLogo150>
+        <Icon_MainIcon>..\assets\icons\SutomHelper.ico</Icon_MainIcon>
+        <Icns_MainIcns>..\assets\icons\SutomHelper.icns</Icns_MainIcns>
         <AppDPIAwarenessMode>none</AppDPIAwarenessMode>
         <VerInfo_AutoIncVersion>true</VerInfo_AutoIncVersion>
     </PropertyGroup>
@@ -289,8 +289,8 @@
         <VerInfo_IncludeVerInfo>true</VerInfo_IncludeVerInfo>
         <VerInfo_Locale>1033</VerInfo_Locale>
         <VerInfo_AutoIncVersion>true</VerInfo_AutoIncVersion>
-        <Icon_MainIcon>..\icons\SutomHelper.ico</Icon_MainIcon>
-        <Icns_MainIcns>..\icons\SutomHelper.icns</Icns_MainIcns>
+        <Icon_MainIcon>..\assets\icons\SutomHelper.ico</Icon_MainIcon>
+        <Icns_MainIcns>..\assets\icons\SutomHelper.icns</Icns_MainIcns>
     </PropertyGroup>
     <PropertyGroup Condition="'$(Cfg_1_Win64)'!=''">
         <AppDPIAwarenessMode>PerMonitorV2</AppDPIAwarenessMode>
@@ -307,8 +307,8 @@
         <VerInfo_IncludeVerInfo>true</VerInfo_IncludeVerInfo>
         <VerInfo_AutoIncVersion>true</VerInfo_AutoIncVersion>
         <VerInfo_MinorVer>1</VerInfo_MinorVer>
-        <Icon_MainIcon>..\icons\SutomHelper.ico</Icon_MainIcon>
-        <Icns_MainIcns>..\icons\SutomHelper.icns</Icns_MainIcns>
+        <Icon_MainIcon>..\assets\icons\SutomHelper.ico</Icon_MainIcon>
+        <Icns_MainIcns>..\assets\icons\SutomHelper.icns</Icns_MainIcns>
     </PropertyGroup>
     <PropertyGroup Condition="'$(Cfg_2_OSXARM64)'!=''">
         <BT_BuildType>DeveloperID</BT_BuildType>
@@ -317,8 +317,8 @@
         <VerInfo_IncludeVerInfo>true</VerInfo_IncludeVerInfo>
         <VerInfo_AutoIncVersion>true</VerInfo_AutoIncVersion>
         <VerInfo_MinorVer>1</VerInfo_MinorVer>
-        <Icon_MainIcon>..\icons\SutomHelper.ico</Icon_MainIcon>
-        <Icns_MainIcns>..\icons\SutomHelper.icns</Icns_MainIcns>
+        <Icon_MainIcon>..\assets\icons\SutomHelper.ico</Icon_MainIcon>
+        <Icns_MainIcns>..\assets\icons\SutomHelper.icns</Icns_MainIcns>
     </PropertyGroup>
     <PropertyGroup Condition="'$(Cfg_2_Win32)'!=''">
         <AppDPIAwarenessMode>PerMonitorV2</AppDPIAwarenessMode>
@@ -332,8 +332,8 @@
         <VerInfo_IncludeVerInfo>true</VerInfo_IncludeVerInfo>
         <VerInfo_AutoIncVersion>true</VerInfo_AutoIncVersion>
         <VerInfo_Locale>1033</VerInfo_Locale>
-        <Icon_MainIcon>..\icons\SutomHelper.ico</Icon_MainIcon>
-        <Icns_MainIcns>..\icons\SutomHelper.icns</Icns_MainIcns>
+        <Icon_MainIcon>..\assets\icons\SutomHelper.ico</Icon_MainIcon>
+        <Icns_MainIcns>..\assets\icons\SutomHelper.icns</Icns_MainIcns>
     </PropertyGroup>
     <ItemGroup>
         <DelphiCompile Include="$(MainSource)">
@@ -402,41 +402,41 @@
                         <Overwrite>true</Overwrite>
                     </Platform>
                 </DeployFile>
-                <DeployFile LocalName="..\icons\SutomHelper-150x150.png" Configuration="Debug" Class="UWP_DelphiLogo150">
+                <DeployFile LocalName="..\assets\icons\SutomHelper-150x150.png" Configuration="Debug" Class="UWP_DelphiLogo150">
                     <Platform Name="Win32">
                         <RemoteDir>Assets\</RemoteDir>
                         <RemoteName>Logo150x150.png</RemoteName>
                         <Overwrite>true</Overwrite>
                     </Platform>
                 </DeployFile>
-                <DeployFile LocalName="..\icons\SutomHelper-150x150.png" Configuration="Debug" Class="UWP_DelphiLogo150">
+                <DeployFile LocalName="..\assets\icons\SutomHelper-150x150.png" Configuration="Debug" Class="UWP_DelphiLogo150">
                     <Platform Name="Win64">
                         <RemoteDir>Assets\</RemoteDir>
                         <RemoteName>Logo150x150.png</RemoteName>
                         <Overwrite>true</Overwrite>
                     </Platform>
                 </DeployFile>
-                <DeployFile LocalName="..\icons\SutomHelper-44x44.png" Configuration="Debug" Class="UWP_DelphiLogo44">
+                <DeployFile LocalName="..\assets\icons\SutomHelper-44x44.png" Configuration="Debug" Class="UWP_DelphiLogo44">
                     <Platform Name="Win32">
                         <RemoteDir>Assets\</RemoteDir>
                         <RemoteName>Logo44x44.png</RemoteName>
                         <Overwrite>true</Overwrite>
                     </Platform>
                 </DeployFile>
-                <DeployFile LocalName="..\icons\SutomHelper-44x44.png" Configuration="Debug" Class="UWP_DelphiLogo44">
+                <DeployFile LocalName="..\assets\icons\SutomHelper-44x44.png" Configuration="Debug" Class="UWP_DelphiLogo44">
                     <Platform Name="Win64">
                         <RemoteDir>Assets\</RemoteDir>
                         <RemoteName>Logo44x44.png</RemoteName>
                         <Overwrite>true</Overwrite>
                     </Platform>
                 </DeployFile>
-                <DeployFile LocalName="..\icons\SutomHelper.icns" Configuration="Debug" Class="ProjectOSXResource">
+                <DeployFile LocalName="..\assets\icons\SutomHelper.icns" Configuration="Debug" Class="ProjectOSXResource">
                     <Platform Name="OSXARM64">
                         <RemoteName>SutomHelper.icns</RemoteName>
                         <Overwrite>true</Overwrite>
                     </Platform>
                 </DeployFile>
-                <DeployFile LocalName="..\icons\SutomHelper.icns" Configuration="Release" Class="ProjectOSXResource">
+                <DeployFile LocalName="..\assets\icons\SutomHelper.icns" Configuration="Release" Class="ProjectOSXResource">
                     <Platform Name="OSXARM64">
                         <RemoteName>SutomHelper.icns</RemoteName>
                         <Overwrite>true</Overwrite>
